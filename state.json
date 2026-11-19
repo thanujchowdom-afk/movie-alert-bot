@@ -1,3 +1,13 @@
 {
- "error_sent": true
+ "baseline": {
+  "3d": 32,
+  "almost_full": 0,
+  "available": 4,
+  "filling_fast": 0,
+  "seat_layout": 4,
+  "svc": 5
+ },
+ "error_sent": false,
+ "open_sent": false,
+ "svc_sent": false
 }
