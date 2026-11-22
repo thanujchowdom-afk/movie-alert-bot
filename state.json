@@ -7,7 +7,7 @@
   "seat_layout": 4,
   "svc": 5
  },
- "error_sent": true,
+ "error_sent": false,
  "open_sent": false,
  "svc_sent": false
 }
